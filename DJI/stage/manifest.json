@@ -1,0 +1,347 @@
+{
+  "index": "DJI",
+  "count": 30,
+  "meta": {
+    "timeframe": "weekly",
+    "mode": "adjusted",
+    "sma_periods": [
+      4,
+      13,
+      26
+    ],
+    "window_months": 60,
+    "generated_at": "2026-04-21"
+  },
+  "tickers": [
+    {
+      "ticker": "MSFT",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "MSFT",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "SHW",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "SHW",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "CAT",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "CAT",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "GS",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "GS",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "AMGN",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "AMGN",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "AXP",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "AXP",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "HD",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "HD",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "MCD",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "MCD",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "JPM",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "JPM",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "TRV",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "TRV",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "UNH",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "UNH",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "IBM",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "IBM",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "V",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "V",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "AAPL",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "AAPL",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "JNJ",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "JNJ",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "HON",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "HON",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "BA",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "BA",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "CVX",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "CVX",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "AMZN",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "AMZN",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "CRM",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "CRM",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "NVDA",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "NVDA",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "MMM",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "MMM",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "PG",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "PG",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "WMT",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "WMT",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "DIS",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "DIS",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "MRK",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "MRK",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "CSCO",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "CSCO",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "VZ",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "VZ",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "NKE",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "NKE",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    },
+    {
+      "ticker": "KO",
+      "provider": "tiingo",
+      "library": "tiingo_prices",
+      "read_key": "KO",
+      "price_column": "adj_close",
+      "mode": "adjusted",
+      "quality": "clean",
+      "fallback_used": false,
+      "warnings": []
+    }
+  ]
+}
